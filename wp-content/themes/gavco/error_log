@@ -1,0 +1,156 @@
+[08-Nov-2020 00:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[14-Nov-2020 01:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[11-Jan-2021 01:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[04-Feb-2021 05:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[15-Feb-2021 09:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[21-Feb-2021 13:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[27-May-2021 15:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gavco/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gavco/public_html/wp-content/themes/gavco/index.php on line 16
+[09-Sep-2021 15:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/espisde2/public_html/gavco/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/espisde2/public_html/gavco/wp-content/themes/gavco/index.php on line 16
+[09-Sep-2021 15:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/espisde2/public_html/gavco/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/espisde2/public_html/gavco/wp-content/themes/gavco/index.php on line 16
+[31-Oct-2021 14:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php on line 2
+[31-Oct-2021 14:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php on line 16
+[31-Oct-2021 14:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[05-Nov-2021 15:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php on line 2
+[05-Nov-2021 15:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[15-Nov-2021 13:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[25-Nov-2021 15:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[25-Nov-2021 15:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php on line 2
+[25-Nov-2021 15:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php on line 16
+[28-Nov-2021 15:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/header.php on line 2
+[28-Nov-2021 15:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php on line 16
+[28-Nov-2021 15:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[20-Dec-2021 06:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/index.php on line 16
+[25-Dec-2021 09:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[29-Dec-2021 16:04:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[01-Jan-2022 06:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[02-Jan-2022 21:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[03-Feb-2022 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[05-Feb-2022 23:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[07-Feb-2022 13:02:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[09-Feb-2022 16:21:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[20-Feb-2022 15:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[21-Feb-2022 21:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[23-Feb-2022 02:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[05-Apr-2022 17:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[06-Apr-2022 20:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[10-Apr-2022 16:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[29-Apr-2022 16:02:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[30-Apr-2022 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
+[18-Jun-2022 20:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/makrfurniture/public_html/wp-content/themes/gavco/404.php on line 11
