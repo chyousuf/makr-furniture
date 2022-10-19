@@ -1,8 +1,0 @@
-[26-May-2021 09:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/gavco/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:21
-Stack trace:
-#0 {main}
-  thrown in /home/gavco/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 21
-[14-Oct-2021 14:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/makrfurniture/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:21
-Stack trace:
-#0 {main}
-  thrown in /home/makrfurniture/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 21
